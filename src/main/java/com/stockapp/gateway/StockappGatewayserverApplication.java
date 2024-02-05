@@ -9,5 +9,5 @@ public class StockappGatewayserverApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(StockappGatewayserverApplication.class, args);
 	}
-
+ 
 }
